@@ -1,0 +1,171 @@
+
+/* COLOR PALATE
+#e8594a
+#ffb4ac
+#679186
+#264e70
+#ffebd3
+ */
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  /* margin-top: 50px;
+  margin-bottom: 50px; */
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none;
+  color: grey;
+  border-width: 5px;
+}
+
+p {
+  line-height: 2;
+}
+
+.programmer {
+  font-weight: normal;
+}
+
+.top {
+  background-color: #ffb4ac;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.profile {
+  margin: 100px auto;
+}
+
+.about-me {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.skill-icon-paint-palatte {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.skill-icon-kanji {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  /* height: 200px; */
+  padding: 50px 0 20px;
+}
+
+.contact-me {
+  margin: 100px auto;
+}
+
+.contact-paragraph {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.footer-link {
+  /* top: 50px;*/
+  text-decoration: none;
+  color: #11999E;
+  margin: 100px 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-paragraph {
+  margin-bottom: 100px;
+}
+
+.butn {
+  background: #2ebdc2;
+  background-image: -webkit-linear-gradient(top, #2ebdc2, #11999E);
+  background-image: -moz-linear-gradient(top, #2ebdc2, #11999E);
+  background-image: -ms-linear-gradient(top, #2ebdc2, #11999E);
+  background-image: -o-linear-gradient(top, #2ebdc2, #11999E);
+  background-image: linear-gradient(to bottom, #2ebdc2, #11999E);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 12px 22px 12px 22px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
